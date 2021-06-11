@@ -5,7 +5,7 @@ A simple url uploader bot with permenent thumbnail support
 ```
 Please fork this repository don't import code
 Made with Python3
-(C) @FayasNoushad
+(C) @Hbf_supportbot
 Copyright permission under GNU General Public License v3.0
 License -> https://github.com/HollyBolly-Films/HBF_UrlUploader/blob/main/LICENSE
 ```
