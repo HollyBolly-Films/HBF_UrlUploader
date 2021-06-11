@@ -24,10 +24,9 @@ Made by @hollybolly_films
 """
     ABOUT_TEXT = """
 - **Bot :** `URL Uploader`
-- **Creator :** [HBF](https://telegram.me/hollybolly_films)
-- **Channel :** [Fayas Noushad](https://telegram.me/hollybolly_films)
-- **Credits :** `Everyone in this journey`
-- **Source :** [Click here](https://github.com/FayasNoushad/URL-Uploader)
+- **Creator :** [HBF Admin](https://telegram.me/hbf_Supportbot)
+- **Channel :** [HollyBolly Films](https://telegram.me/hollybolly_films)
+- **Source :** [Click here](https://telegram.me/hbf_Supportbot)
 - **Language :** [Python3](https://python.org)
 - **Library :** [Pyrogram v1.2.0](https://pyrogram.org)
 - **Server :** [Heroku](https://heroku.com)
@@ -35,7 +34,7 @@ Made by @hollybolly_films
     START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Channel', url='https://telegram.me/hollybolly_films'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/hollybolly_films')
+        InlineKeyboardButton('Feedback', url='https://telegram.me/hbf_Supportbot')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
