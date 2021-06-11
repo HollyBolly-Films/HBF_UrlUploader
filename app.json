@@ -1,5 +1,5 @@
 {
-  "name": "HBF URL-Uploader",
+  "name": "HBF URLUploader",
   "description": "An url uploader bot with permenent thumbnail support",
   "keywords": [
     "telegram",
@@ -7,9 +7,9 @@
     "uploader",
     "pyrogram"
   ],
-  "success_url": "https://github.com/FayasNoushad",
+  "success_url": "https://github.com/HollyBolly-Films",
   "website": "https://fayas.cf",
-  "repository": "https://github.com/FayasNoushad/URL-Uploader",
+  "repository": "https://github.com/HollyBolly-Films/HBF_UrlUploader",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
